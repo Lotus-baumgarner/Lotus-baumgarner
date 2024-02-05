@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lotus Baumgarner
 - 👀 I’m interested in reading sci-fi and true crime novels, MMORPGs, D & D.
-- 👩‍👧‍👦 I'm the mother of three beautiful children who I'm trying to teach that
--    your actions will always bear consequences, so choose them wisely.
+- 👩‍👧‍👦 I'm the mother of three beautiful children who I'm trying to teach that your actions will always bear consequences, so choose them wisely.
 - 🌱 I’m currently learning to become a Data Scienctist through Flatiron.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
